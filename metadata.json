@@ -1,0 +1,5 @@
+{
+  "name": "Knowledge Database",
+  "description": "A professional Zettelkasten-based knowledge management system featuring atomic notes, semantic search, and interactive graph visualization.",
+  "requestFramePermissions": []
+}
